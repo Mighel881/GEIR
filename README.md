@@ -22,3 +22,6 @@ GEIR - The discord bot that will notify when new iOS versions get released or ge
 
 # Important Note!
 GEIR creates roles for all compatible devices, and it will *not* remove them when you delete it. Even if you delete a role, it will recreate it after a day.
+
+# Invite link
+https://discord.com/api/oauth2/authorize?client_id=736195692858441758&permissions=8&scope=bot
