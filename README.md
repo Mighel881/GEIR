@@ -25,3 +25,6 @@ GEIR creates roles for all compatible devices, and it will *not* remove them whe
 
 # Invite link
 https://discord.com/api/oauth2/authorize?client_id=736195692858441758&permissions=8&scope=bot
+
+# Support server
+https://discord.gg/PVqz3x4
