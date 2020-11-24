@@ -20,6 +20,12 @@ GEIR - The discord bot that will notify when new iOS versions get released or ge
   
 *giverole <device model> - Adds/removes the device model role from the user
 
+[[tweak]] - Gives you information about the first result with that name. Can be used everywhere in a sentence
+
+*search <tweak> - Gives you the top 10 results with that query
+
+*tweak <tweak> - Gives you all results with the tweak name you provided in an interactive embed message! (Takes time to load)
+
 # Important Note!
 GEIR creates roles for all compatible devices, and it will *not* remove them when you delete it. Even if you delete a role, it will recreate it after a day.
 
@@ -27,4 +33,4 @@ GEIR creates roles for all compatible devices, and it will *not* remove them whe
 https://discord.com/api/oauth2/authorize?client_id=736195692858441758&permissions=8&scope=bot
 
 # Support server
-https://discord.gg/PVqz3x4
+https://discord.gg/bvA8bvMjdq
